@@ -24,6 +24,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/M5 Entorns de Desenv." />
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/luanve91/Ejemplo" />
   </component>
 </application>
