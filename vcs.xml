@@ -18,8 +18,12 @@
           <option name="url" value="http://github.com/luanve91/Ejemplo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:luanve91/Ejemplo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Ejemplo" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/M5 Entorns de Desenv." />
   </component>
 </application>
